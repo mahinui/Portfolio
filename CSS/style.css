@@ -19,13 +19,7 @@ h1{
     background-size:contain
     }
 
-    @media screen and (min-width: 600px) {
-        body{
-            font-size: 100%;
-        }
-
-    }
-
+ 
 #Bio{
     font-size: 30px;
     color: rgb(65, 204, 214);
@@ -158,7 +152,3 @@ h1{
     background-size:contain
 }
 
-
-.container{
-    background-size: 100%;
-}
