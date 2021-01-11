@@ -1,6 +1,7 @@
 body{
     margin-left: 0%;
     margin-right: 0%;
+   
 }
 
 
@@ -16,9 +17,12 @@ h1{
     color: rgb(34, 135, 153);
     background-image: url(./9.gif);
     background-repeat: no-repeat;
-    background-size:contain
-    }
+    background-size:contain;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
+
+   
  
 #Bio{
     font-size: 30px;
@@ -151,4 +155,12 @@ h1{
     /* background-repeat: no-repeat; */
     background-size:contain
 }
+
+
+@font-face {
+    font-family: 'monday_routinesregular';
+    src: url('font/monday_routines-webfont.woff2') format('woff2'),
+         url('font/monday_routines-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 
