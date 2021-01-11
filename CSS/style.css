@@ -18,8 +18,14 @@ h1{
     background-image: url(./9.gif);
     background-repeat: no-repeat;
     background-size:contain;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Bilbo', cursive;
+    
+    font-size: 40px;
 }
+
+
+
+
 
 
    
