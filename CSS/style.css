@@ -28,6 +28,10 @@ body{
     text-decoration: underline;   
     text-align:center;
     
+    margin-left: 18em;
+    margin-right: 18em;
+    background-color:rgba(0, 0, 0, 0.6) ; ;
+    
 }
    
   
@@ -50,6 +54,10 @@ body{
     font-size: 30px;
     color: rgb(186, 196, 96);
     text-decoration: underline;
+    
+    margin-left: 18em;
+    margin-right: 18em;
+    background-color:rgba(0, 0, 0, 0.6) ; ;
 }
 
 #TextDipForm{
@@ -73,6 +81,10 @@ body{
     font-size: 30px;
     color: rgb(186, 196, 96);
     text-decoration: underline;
+    
+    margin-left: 20em;
+    margin-right: 20em;
+    background-color:rgba(0, 0, 0, 0.6) ;
 }
 
 #DivComp{
@@ -92,6 +104,11 @@ body{
     font-size: 30px;
     color:rgb(186, 196, 96);
     text-decoration: underline;
+    
+      border-width: 2px;
+      margin-left: 17em;
+      margin-right: 17em;
+      background-color:rgba(0, 0, 0, 0.6) ;
 }
 
 #EX{
@@ -101,8 +118,8 @@ body{
   text-align:center;
   border-width: 10px;
   padding: 6px;
-  margin-left: 5em;
-  margin-right: 5em;
+  margin-left: 2em;
+  margin-right: 2em;
   border:double 1px  rgb(184, 194, 147);
   border-width: 2px;
 }
@@ -112,6 +129,12 @@ body{
     font-size: 30px;
     color: rgb(186, 196, 96);
     text-decoration: underline;
+    
+     
+      
+      margin-left: 18em;
+      margin-right: 18em;
+      background-color:rgba(0, 0, 0, 0.6) ;
 }
     
 
